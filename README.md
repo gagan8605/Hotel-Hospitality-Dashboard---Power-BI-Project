@@ -51,7 +51,10 @@ This project is based on 5 CSV files:
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](Screenshot 2025-02-18 232820.png)
+![Screenshot 2025-02-18 232820](https://github.com/user-attachments/assets/2f788525-7868-41ea-b97b-4b2f56a4322d)
+
+
+
 
 ---
 
